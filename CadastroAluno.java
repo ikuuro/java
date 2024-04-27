@@ -11,7 +11,7 @@ package com.mycompany.cadastroaluno;
 public class CadastroAluno {
 
     public static void main(String[] args) {
-                        //variáveis
+                        //valores
         String nome = "Ikaro Santos" ;
         int idade = 18;
         char sexo = 'M' ;
